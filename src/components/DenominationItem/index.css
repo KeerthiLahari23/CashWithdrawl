@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.denom-button {
+    background-color: #585076;
+    color:#ffffff;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Roboto";
+    border: 1px solid #382f5a;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 28px;
+    padding-right: 28px;
+    width:100%;
+    cursor:pointer;
+    outline: none;
+}
+.list-items{
+    list-style-type: none;
+}
